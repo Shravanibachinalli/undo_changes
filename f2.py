@@ -1,1 +1,0 @@
-print("Hello from f2.py")
